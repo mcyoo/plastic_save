@@ -18,6 +18,7 @@ defmodule Chirp.Timeline do
     Repo.all(from p in Post, order_by: [desc: p.id])
   end
 
+
   def inc_likes(%Post{id: id}) do
     {1, [post]} =
       from(p in Post, where: p.id == ^id, select: p)

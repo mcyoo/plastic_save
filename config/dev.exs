@@ -2,10 +2,10 @@ use Mix.Config
 
 # Configure your database
 config :chirp, Chirp.Repo,
-  username: "postgres",
-  password: "postgres",
-  database: "chirp_dev",
-  hostname: "localhost",
+  username: "relay_server",
+  password: "portable20relaydb!",
+  database: "relay_server_db",
+  hostname: System.get_env("POSTGRES_HOST_URL") || System.get_env("POSTGRES_HOST_URL_DEFAULT"),
   show_sensitive_data_on_connection_error: true,
   pool_size: 10
 

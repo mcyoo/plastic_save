@@ -26,7 +26,7 @@
               },
               bounce: {
                 '0%, 100%': {
-                  transform: 'translateY(-15%)',
+                  transform: 'translateY(-20%)',
                   'animation-timing-function': 'cubic-bezier(2, 0, 1, 1)',
                 },
                 '50%': {
@@ -38,11 +38,25 @@
             animation: {
               'waving': 'wave 2s linear infinite',
               'bounce': 'bounce 1.5s infinite'
+            },
+            fontFamily: {
+              ants: ["Ants", "sans-serif"],
+              pruncup: ["Pruncup", "sans-serif"]
             }
           },
         },
     }
   </script>
+  <style>
+    @font-face {
+      font-family: "Ants";
+      src: url("/fonts/SSAntRegular.ttf");
+    }
+    @font-face {
+      font-family: "Pruncup";
+      src: url("/fonts/EliceDigitalBaeum_Regular.ttf");
+    }
+  </style>
   </head>
   <body class="bg-cyan-100">
     <header>

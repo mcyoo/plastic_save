@@ -1,0 +1,510 @@
+2022-09-20 06:49:50.791 [info] Running RelayServerWeb.Endpoint with cowboy 2.9.0 at 0.0.0.0:4000 (http)
+2022-09-20 06:49:50.793 [info] Access RelayServerWeb.Endpoint at http://localhost:4000
+2022-09-20 06:49:56.366 [info] GET /login/password
+2022-09-20 06:49:56.378 [info] Sent 200 in 11ms
+2022-09-20 06:49:56.469 [info] GET /login/password
+2022-09-20 06:49:56.476 [info] Sent 200 in 6ms
+2022-09-20 06:49:56.923 [info] GET /login/password
+2022-09-20 06:49:56.929 [info] Sent 200 in 5ms
+2022-09-20 06:49:57.093 [info] GET /login/password
+2022-09-20 06:49:57.109 [info] Sent 200 in 15ms
+2022-09-20 06:58:10.803 [info] SIGTERM received - shutting down
+
+2022-09-20 06:59:15.823 [info] Running RelayServerWeb.Endpoint with cowboy 2.9.0 at 0.0.0.0:4000 (http)
+2022-09-20 06:59:15.827 [info] Access RelayServerWeb.Endpoint at http://localhost:4000
+2022-09-20 07:04:34.220 [info] CONNECTED TO RelayServerWeb.UserSocket in 49µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-20 07:04:34.256 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-20 07:04:34.261 [warn] user is not assigned for this machinecad04dce54cb
+2022-09-20 07:04:34.261 [info] JOINED measure:cad04dce54cb in 7ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-20 07:04:34.765 [warn] version:beta, target_server:local, current_server: local
+2022-09-20 07:05:58.046 [info] CONNECTED TO RelayServerWeb.UserSocket in 63µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-20 07:05:58.062 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-20 07:05:58.063 [warn] user is not assigned for this machinecad04dce54cb
+2022-09-20 07:05:58.063 [info] JOINED measure:cad04dce54cb in 2ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-20 07:05:58.375 [warn] version:beta, target_server:local, current_server: local
+2022-09-20 07:05:58.397 [warn] version:beta, target_server:local, current_server: local
+2022-09-20 07:06:49.454 [info] CONNECTED TO RelayServerWeb.UserSocket in 30µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-20 07:06:49.467 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-20 07:06:49.467 [warn] user is not assigned for this machinecad04dce54cb
+2022-09-20 07:06:49.467 [info] JOINED measure:cad04dce54cb in 1ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-20 07:06:49.789 [warn] version:beta, target_server:local, current_server: local
+2022-09-20 07:12:36.070 [info] CONNECTED TO RelayServerWeb.UserSocket in 41µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-20 07:12:36.093 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-20 07:12:36.094 [warn] user is not assigned for this machinecad04dce54cb
+2022-09-20 07:12:36.094 [info] JOINED measure:cad04dce54cb in 3ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-20 07:12:36.409 [warn] version:beta, target_server:local, current_server: local
+2022-09-20 07:15:44.627 [info] GET /login/password
+2022-09-20 07:15:44.639 [info] Sent 200 in 11ms
+2022-09-20 07:15:44.731 [info] GET /login/password
+2022-09-20 07:15:44.738 [info] Sent 200 in 6ms
+2022-09-20 07:17:01.867 [info] CONNECTED TO RelayServerWeb.UserSocket in 45µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-20 07:17:01.878 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-20 07:17:01.878 [warn] user is not assigned for this machinecad04dce54cb
+2022-09-20 07:17:01.878 [info] JOINED measure:cad04dce54cb in 1ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-20 07:17:02.212 [warn] version:beta, target_server:local, current_server: local
+2022-09-20 07:17:28.737 [info] CONNECTED TO RelayServerWeb.UserSocket in 57µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-20 07:17:28.784 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-20 07:17:28.785 [warn] user is not assigned for this machinecad04dce54cb
+2022-09-20 07:17:28.785 [info] JOINED measure:cad04dce54cb in 3ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-20 07:17:29.146 [warn] version:beta, target_server:local, current_server: local
+2022-09-20 07:29:07.304 [info] CONNECTED TO RelayServerWeb.UserSocket in 57µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-20 07:29:07.340 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-20 07:29:07.341 [warn] user is not assigned for this machinecad04dce54cb
+2022-09-20 07:29:07.341 [info] JOINED measure:cad04dce54cb in 3ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-20 07:29:07.663 [warn] version:beta, target_server:local, current_server: local
+2022-09-20 07:29:27.594 [info] CONNECTED TO RelayServerWeb.UserSocket in 36µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-20 07:29:27.637 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-20 07:29:27.638 [warn] user is not assigned for this machinecad04dce54cb
+2022-09-20 07:29:27.638 [info] JOINED measure:cad04dce54cb in 3ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-20 07:29:28.029 [warn] version:beta, target_server:local, current_server: local
+2022-09-20 07:30:04.263 [info] GET /
+2022-09-20 07:30:04.265 [info] Sent 302 in 2ms
+2022-09-20 07:30:04.347 [info] GET /login/password
+2022-09-20 07:30:04.354 [info] Sent 200 in 7ms
+2022-09-20 07:30:05.590 [info] POST /login/password
+2022-09-20 07:30:05.820 [info] Sent 302 in 230ms
+2022-09-20 07:30:05.889 [info] GET /measure
+2022-09-20 07:30:05.910 [info] Sent 200 in 21ms
+2022-09-20 07:30:06.032 [info] CONNECTED TO Phoenix.LiveView.Socket in 55µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "KQR1NCAJMwllPXQsZzwJAiIxfRloPBI_mcMmPxZZTwBU3kPudcIIEF_O", "_mounts" => "0", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-20 07:30:07.682 [info] nav_forward page_to: setting
+2022-09-20 07:30:28.552 [info] change user-machine mapping: user:hsqmdev7, []
+2022-09-20 07:30:28.559 [info] change user-machine mapping: user:hsqmdev7, ["cad04dce54cb"]
+2022-09-20 07:30:28.565 [warn] device_assign_changed:8, 02064b8cd08e => cad04dce54cb
+2022-09-20 07:30:36.543 [info] nav_backward page_to: menu
+2022-09-20 07:30:37.452 [error] GenServer #PID<0.7514.0> terminating
+** (Protocol.UndefinedError) protocol JSON.Decoder not implemented for nil of type Atom. This protocol is implemented for the following type(s): List, BitString
+    (json 1.4.1) lib/json/decoder.ex:1: JSON.Decoder.impl_for!/1
+    (json 1.4.1) lib/json/decoder.ex:10: JSON.Decoder.decode/1
+    (json 1.4.1) lib/json.ex:68: JSON.decode!/1
+    (relay_server 0.1.0) lib/relay_server_web/live/utils/function_iptv.ex:834: RelayServer.FunctionIptv.iptv_param_setup/4
+    (relay_server 0.1.0) lib/relay_server_web/live/measure_live.ex:842: RelayServerWeb.MeasureLive.handle_event/3
+    (phoenix_live_view 0.14.8) lib/phoenix_live_view/channel.ex:213: anonymous fn/3 in Phoenix.LiveView.Channel.view_handle_event/3
+    (telemetry 0.4.3) /app/deps/telemetry/src/telemetry.erl:272: :telemetry.span/3
+    (phoenix_live_view 0.14.8) lib/phoenix_live_view/channel.ex:102: Phoenix.LiveView.Channel.handle_info/2
+    (stdlib 3.15.1) gen_server.erl:695: :gen_server.try_dispatch/4
+    (stdlib 3.15.1) gen_server.erl:771: :gen_server.handle_msg/6
+    (stdlib 3.15.1) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+Last message: %Phoenix.Socket.Message{event: "event", join_ref: "4", payload: %{"event" => "menu-solo", "type" => "click", "value" => %{"mode" => "vod", "value" => ""}}, ref: "29", topic: "lv:phx-FxaBDSmjBtBkl5uI"}
+State: %{components: {%{}, %{}, 6}, join_ref: "4", serializer: Phoenix.Socket.V2.JSONSerializer, socket: #Phoenix.LiveView.Socket<assigns: %{live_action: nil, command_result: "", current_user_id: 8, live_module: RelayServerWeb.MeasureLive, visit_list: ["menu"], pin_number_new2: "", latest_firmware_version: "1-0-20", flash: %{}, measure_settings: %{"0" => %{"accordion_open" => true, "accordion_open_he" => false, "accordion_open_multicast" => false, "accordion_open_vod" => false}}, measure_results: %{"0" => %{}}, machines: [%RelayServer.Machine{__meta__: #Ecto.Schema.Metadata<:loaded, "machines">, firmware_version: "1-0-56", id: 3010, inserted_at: ~N[2022-09-10 04:02:13], machine_id: "cad04dce54cb", machine_type: "1G", model_name: "NLPA-DGN-A", power_off_time: 2147483647, serial_number: "PA01LABK2269", updated_at: ~N[2022-09-20 07:30:30], user_id: nil, users: #Ecto.Association.NotLoaded<association :users is not loaded>}], pin_number_temp: "", current_page: "menu", changeset: #Ecto.Changeset<action: :insert, changes: %{serial_number: "PA01LABK2269"}, errors: [], data: #RelayServer.ValidataionStructs.DeviceSerialNumber<>, valid?: true>, measuring_popup_on: "", disable_iptv_test: nil, pin_number_setting_step: "", changeset_machine_serial: #Ecto.Changeset<action: :insert, changes: %{serial_number: "PA01LABK2269"}, errors: [], data: #RelayServer.ValidataionStructs.DeviceSerialNumber<>, valid?: true>, pin_number_button_index: ["3", "7", "8", "1", "4", "x", "0", "6", "x", "5", "9", "2"], popup_item: nil, page_params: %{}, machine_status: %{battery: 96, connections: %{"stb" => "down", "wan" => "up"}, is_charging: true, is_measuring: false, machine_assigned: true, machine_id: "cad04dce54cb", machine_type: "1G", measuring_idx: "0", online: true}, user_id: "hsqmdev7", speed_test_target_server: "softfusion__debug", offline_popup_on: "", enable_dev_mode: true, region_code: "01", pin_number_new1: "", measure_params: %{"0" => %{}}, measure_mode: "solo", region_name_dict: %{}, iptv_measure_disable_popup_on: "", enable_solo_speed_test: true, enable_command_control: true, log_upload_result: ""}, changed: %{}, endpoint: RelayServerWeb.Endpoint, id: "phx-FxaBDSmjBtBkl5uI", parent_pid: nil, root_pid: #PID<0.7514.0>, router: RelayServerWeb.Router, view: RelayServerWeb.MeasureLive, ...>, topic: "lv:phx-FxaBDSmjBtBkl5uI", transport_pid: #PID<0.7511.0>}
+2022-09-20 07:30:38.471 [info] nav_forward page_to: measure
+2022-09-20 07:31:27.032 [info] nav_forward page_to: setting
+2022-09-20 07:40:49.402 [info] CONNECTED TO Phoenix.LiveView.Socket in 104µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "KQR1NCAJMwllPXQsZzwJAiIxfRloPBI_mcMmPxZZTwBU3kPudcIIEF_O", "_mounts" => "1", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-20 07:44:23.110 [info] CONNECTED TO Phoenix.LiveView.Socket in 54µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "KQR1NCAJMwllPXQsZzwJAiIxfRloPBI_mcMmPxZZTwBU3kPudcIIEF_O", "_mounts" => "2", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-20 07:47:56.028 [info] CONNECTED TO Phoenix.LiveView.Socket in 53µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "KQR1NCAJMwllPXQsZzwJAiIxfRloPBI_mcMmPxZZTwBU3kPudcIIEF_O", "_mounts" => "3", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-20 07:51:46.665 [info] CONNECTED TO RelayServerWeb.UserSocket in 61µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-20 07:51:46.683 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-20 07:51:46.683 [info] JOINED measure:cad04dce54cb in 2ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-20 07:51:46.684 [warn] version:beta, target_server:local, current_server: local
+2022-09-20 07:51:46.994 [warn] version:beta, target_server:local, current_server: local
+2022-09-20 07:51:49.448 [info] CONNECTED TO Phoenix.LiveView.Socket in 58µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "KQR1NCAJMwllPXQsZzwJAiIxfRloPBI_mcMmPxZZTwBU3kPudcIIEF_O", "_mounts" => "4", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-20 07:52:04.258 [info] CONNECTED TO RelayServerWeb.UserSocket in 50µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-20 07:52:04.438 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-20 07:52:04.438 [info] JOINED measure:cad04dce54cb in 2ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-20 07:52:04.439 [warn] version:beta, target_server:local, current_server: local
+2022-09-20 07:52:04.822 [warn] version:beta, target_server:local, current_server: local
+2022-09-20 07:52:30.828 [info] nav_forward page_to: setting
+2022-09-20 07:52:44.777 [info] change user-machine mapping: user:hsqmdev7, []
+2022-09-20 07:52:44.783 [info] change user-machine mapping: user:hsqmdev7, []
+2022-09-20 07:52:44.787 [info] change user-machine mapping: user:hsqmdev7, ["cad04dce54cb"]
+2022-09-20 07:52:44.792 [warn] device_assign_changed:8, cad04dce54cb => cad04dce54cb
+2022-09-20 07:52:48.803 [info] nav_backward page_to: menu
+2022-09-20 07:52:49.827 [info] nav_forward page_to: measure
+2022-09-20 07:53:25.960 [info] Speed result push:cad04dce54cb/hsqmdev7/916e0eb7-40eb-4e49-a003-d6c0468453bd
+2022-09-20 07:54:55.965 [warn] speed_request_error:module_error,ERR_PINGSOCKET
+2022-09-20 07:54:55.965 [warn] --------------------------------------------
+2022-09-20 08:01:49.532 [info] CONNECTED TO Phoenix.LiveView.Socket in 27µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "KQR1NCAJMwllPXQsZzwJAiIxfRloPBI_mcMmPxZZTwBU3kPudcIIEF_O", "_mounts" => "5", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-20 08:01:53.440 [info] GET /measure
+2022-09-20 08:01:53.442 [info] Sent 302 in 2ms
+2022-09-20 08:01:53.501 [info] GET /login/password
+2022-09-20 08:01:53.507 [info] Sent 200 in 5ms
+2022-09-20 08:14:18.304 [info] CONNECTED TO RelayServerWeb.UserSocket in 89µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-20 08:14:18.359 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-20 08:14:18.360 [info] JOINED measure:cad04dce54cb in 3ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-20 08:14:18.695 [warn] version:beta, target_server:local, current_server: local
+2022-09-20 08:14:37.847 [info] CONNECTED TO RelayServerWeb.UserSocket in 34µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-20 08:14:37.905 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-20 08:14:37.906 [info] JOINED measure:cad04dce54cb in 3ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-20 08:14:38.233 [warn] version:beta, target_server:local, current_server: local
+2022-09-20 08:15:15.372 [info] CONNECTED TO RelayServerWeb.UserSocket in 35µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-20 08:15:15.411 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-20 08:15:15.411 [info] JOINED measure:cad04dce54cb in 3ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-20 08:15:15.894 [warn] version:beta, target_server:local, current_server: local
+2022-09-20 08:17:51.761 [info] CONNECTED TO RelayServerWeb.UserSocket in 42µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-20 08:17:51.788 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-20 08:17:51.788 [info] JOINED measure:cad04dce54cb in 2ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-20 08:17:52.155 [warn] version:beta, target_server:local, current_server: local
+2022-09-20 08:18:03.783 [info] POST /login/password
+2022-09-20 08:18:04.037 [info] Sent 302 in 254ms
+2022-09-20 08:18:04.105 [info] GET /measure
+2022-09-20 08:18:04.114 [info] Sent 200 in 9ms
+2022-09-20 08:18:04.225 [info] CONNECTED TO Phoenix.LiveView.Socket in 71µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "BTsUFTQ-cV0kOyAGJDw-GgI7ABcfOk9dQWzYsR4iMIOLPtdOezJyrX78", "_mounts" => "0", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-20 08:18:05.643 [info] nav_forward page_to: setting
+2022-09-20 08:22:17.341 [info] CONNECTED TO RelayServerWeb.UserSocket in 122µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-20 08:22:17.501 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-20 08:22:17.502 [info] JOINED measure:cad04dce54cb in 3ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-20 08:22:17.503 [warn] version:beta, target_server:local, current_server: local
+2022-09-20 08:22:17.818 [warn] version:beta, target_server:local, current_server: local
+2022-09-20 08:25:36.502 [info] CONNECTED TO Phoenix.LiveView.Socket in 51µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "BTsUFTQ-cV0kOyAGJDw-GgI7ABcfOk9dQWzYsR4iMIOLPtdOezJyrX78", "_mounts" => "0", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-20 08:31:49.423 [info] CONNECTED TO Phoenix.LiveView.Socket in 70µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "BTsUFTQ-cV0kOyAGJDw-GgI7ABcfOk9dQWzYsR4iMIOLPtdOezJyrX78", "_mounts" => "1", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-20 08:35:30.330 [info] CONNECTED TO Phoenix.LiveView.Socket in 31µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "BTsUFTQ-cV0kOyAGJDw-GgI7ABcfOk9dQWzYsR4iMIOLPtdOezJyrX78", "_mounts" => "2", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-20 08:39:02.406 [info] CONNECTED TO Phoenix.LiveView.Socket in 28µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "BTsUFTQ-cV0kOyAGJDw-GgI7ABcfOk9dQWzYsR4iMIOLPtdOezJyrX78", "_mounts" => "3", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-20 08:42:39.098 [info] CONNECTED TO Phoenix.LiveView.Socket in 29µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "BTsUFTQ-cV0kOyAGJDw-GgI7ABcfOk9dQWzYsR4iMIOLPtdOezJyrX78", "_mounts" => "4", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-20 08:48:49.424 [info] CONNECTED TO Phoenix.LiveView.Socket in 122µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "BTsUFTQ-cV0kOyAGJDw-GgI7ABcfOk9dQWzYsR4iMIOLPtdOezJyrX78", "_mounts" => "5", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-20 08:48:52.322 [info] GET /measure
+2022-09-20 08:48:52.325 [info] Sent 302 in 3ms
+2022-09-20 08:48:52.386 [info] GET /login/password
+2022-09-20 08:48:52.392 [info] Sent 200 in 6ms
+2022-09-20 08:52:21.338 [info] CONNECTED TO RelayServerWeb.UserSocket in 35µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-20 08:52:21.433 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-20 08:52:21.433 [info] JOINED measure:cad04dce54cb in 3ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-20 08:52:21.844 [warn] version:beta, target_server:local, current_server: local
+2022-09-20 09:08:31.807 [info] CONNECTED TO RelayServerWeb.UserSocket in 59µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-20 09:08:31.853 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-20 09:08:31.854 [info] JOINED measure:cad04dce54cb in 3ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-20 09:08:32.184 [warn] version:beta, target_server:local, current_server: local
+2022-09-20 09:19:23.672 [info] SIGTERM received - shutting down
+
+2022-09-21 06:15:58.235 [info] Running RelayServerWeb.Endpoint with cowboy 2.9.0 at 0.0.0.0:4000 (http)
+2022-09-21 06:15:58.253 [info] Access RelayServerWeb.Endpoint at http://localhost:4000
+2022-09-21 06:17:36.213 [info] CONNECTED TO RelayServerWeb.UserSocket in 149µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-21 06:17:36.279 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-21 06:17:36.284 [info] JOINED measure:cad04dce54cb in 15ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-21 06:17:36.895 [warn] version:beta, target_server:local, current_server: local
+2022-09-21 06:26:23.357 [info] GET /
+2022-09-21 06:26:23.387 [info] Sent 302 in 29ms
+2022-09-21 06:26:23.443 [info] GET /login/password
+2022-09-21 06:26:23.480 [info] Sent 200 in 37ms
+2022-09-21 06:26:24.538 [info] POST /login/password
+2022-09-21 06:26:24.766 [info] Sent 302 in 227ms
+2022-09-21 06:26:24.818 [info] GET /measure
+2022-09-21 06:26:24.878 [info] Sent 200 in 59ms
+2022-09-21 06:26:24.993 [info] CONNECTED TO Phoenix.LiveView.Socket in 77µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "KEZ1YkU4KXcPIkAdHSkCCBYlFjl2KwsDw0DRpZe3uIsjGkDJSkElDfSE", "_mounts" => "0", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-21 06:26:26.595 [info] nav_forward page_to: setting
+2022-09-21 06:26:38.598 [info] CONNECTED TO RelayServerWeb.UserSocket in 62µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-21 06:26:38.684 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-21 06:26:38.684 [info] JOINED measure:cad04dce54cb in 2ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-21 06:26:38.687 [warn] version:beta, target_server:local, current_server: local
+2022-09-21 06:26:39.027 [warn] version:beta, target_server:local, current_server: local
+2022-09-21 06:27:28.927 [info] change user-machine mapping: user:hsqmdev7, []
+2022-09-21 06:27:28.952 [info] change user-machine mapping: user:hsqmdev7, []
+2022-09-21 06:27:28.957 [info] change user-machine mapping: user:hsqmdev7, ["cad04dce54cb"]
+2022-09-21 06:27:28.964 [warn] device_assign_changed:8, cad04dce54cb => cad04dce54cb
+2022-09-21 06:30:36.489 [info] nav_backward page_to: menu
+2022-09-21 06:30:37.483 [info] nav_forward page_to: measure
+2022-09-21 06:30:38.901 [info] nav_forward page_to: setting
+2022-09-21 06:30:40.713 [info] nav_backward page_to: measure
+2022-09-21 06:31:15.809 [info] Speed result push:cad04dce54cb/hsqmdev7/aeb76fe9-21f2-4b75-8430-703662ae126c
+2022-09-21 06:32:10.748 [info] nav_forward page_to: history
+2022-09-21 06:32:21.374 [info] nav_backward page_to: measure
+2022-09-21 06:32:27.196 [info] nav_forward page_to: history
+2022-09-21 06:32:37.835 [info] nav_backward page_to: measure
+2022-09-21 06:40:59.986 [info] CONNECTED TO Phoenix.LiveView.Socket in 53µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "KEZ1YkU4KXcPIkAdHSkCCBYlFjl2KwsDw0DRpZe3uIsjGkDJSkElDfSE", "_mounts" => "0", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-21 06:48:42.082 [info] CONNECTED TO Phoenix.LiveView.Socket in 30µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "KEZ1YkU4KXcPIkAdHSkCCBYlFjl2KwsDw0DRpZe3uIsjGkDJSkElDfSE", "_mounts" => "1", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-21 06:58:03.256 [info] CONNECTED TO Phoenix.LiveView.Socket in 77µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "KEZ1YkU4KXcPIkAdHSkCCBYlFjl2KwsDw0DRpZe3uIsjGkDJSkElDfSE", "_mounts" => "2", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-21 06:58:05.087 [info] GET /measure
+2022-09-21 06:58:05.089 [info] Sent 302 in 2ms
+2022-09-21 06:58:05.143 [info] GET /login/password
+2022-09-21 06:58:05.148 [info] Sent 200 in 4ms
+2022-09-21 07:17:56.495 [info] CONNECTED TO RelayServerWeb.UserSocket in 45µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-21 07:17:56.518 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-21 07:17:56.519 [info] JOINED measure:cad04dce54cb in 2ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-21 07:17:56.851 [warn] version:beta, target_server:local, current_server: local
+2022-09-21 07:18:34.397 [info] POST /login/password
+2022-09-21 07:18:34.620 [info] Sent 302 in 220ms
+2022-09-21 07:18:34.682 [info] GET /measure
+2022-09-21 07:18:34.696 [info] Sent 200 in 13ms
+2022-09-21 07:18:34.842 [info] CONNECTED TO Phoenix.LiveView.Socket in 286µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "ZwxQDg4WB1odFnRTGR56Lj4_GVQJG3wbPtbtXrMmed2gctOmsfSdjO4P", "_mounts" => "0", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-21 07:18:36.208 [info] nav_forward page_to: measure
+2022-09-21 07:19:15.170 [info] Speed result push:cad04dce54cb/hsqmdev7/c63c8bf7-21b9-4cf7-a884-9423539ee3e3
+2022-09-21 07:21:28.434 [info] Speed result push:cad04dce54cb/hsqmdev7/314453d3-915a-4c1c-bfa5-84d639a65080
+2022-09-21 07:22:22.311 [info] Speed result push:cad04dce54cb/hsqmdev7/406493b5-9abb-4459-9b0a-299eb671254e
+2022-09-21 07:31:36.171 [info] CONNECTED TO Phoenix.LiveView.Socket in 55µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "ZwxQDg4WB1odFnRTGR56Lj4_GVQJG3wbPtbtXrMmed2gctOmsfSdjO4P", "_mounts" => "0", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-21 07:38:38.162 [info] CONNECTED TO Phoenix.LiveView.Socket in 52µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "ZwxQDg4WB1odFnRTGR56Lj4_GVQJG3wbPtbtXrMmed2gctOmsfSdjO4P", "_mounts" => "1", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-21 07:40:51.001 [info] nav_forward page_to: measure
+2022-09-21 07:41:25.526 [info] Speed result push:cad04dce54cb/hsqmdev7/b1958a81-839b-4d2a-8580-8f0fd0fc6ff3
+2022-09-21 07:47:40.148 [info] CONNECTED TO Phoenix.LiveView.Socket in 26µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "ZwxQDg4WB1odFnRTGR56Lj4_GVQJG3wbPtbtXrMmed2gctOmsfSdjO4P", "_mounts" => "2", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-21 08:00:02.110 [info] CONNECTED TO Phoenix.LiveView.Socket in 56µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "ZwxQDg4WB1odFnRTGR56Lj4_GVQJG3wbPtbtXrMmed2gctOmsfSdjO4P", "_mounts" => "3", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-21 08:00:05.573 [info] GET /measure
+2022-09-21 08:00:05.575 [info] Sent 302 in 1ms
+2022-09-21 08:00:05.620 [info] GET /login/password
+2022-09-21 08:00:05.624 [info] Sent 200 in 4ms
+2022-09-21 08:01:38.026 [info] POST /login/password
+2022-09-21 08:01:38.266 [info] Sent 302 in 239ms
+2022-09-21 08:01:38.332 [info] GET /measure
+2022-09-21 08:01:38.341 [info] Sent 200 in 8ms
+2022-09-21 08:01:38.499 [info] CONNECTED TO Phoenix.LiveView.Socket in 36µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "IiZ_Ml8hVic5XxVACQQGJGs_eSwCZBAUanKvlg8pRj_59qDkXQJZUSUq", "_mounts" => "0", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-21 08:01:39.239 [info] nav_forward page_to: measure
+2022-09-21 08:15:02.129 [info] CONNECTED TO Phoenix.LiveView.Socket in 28µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "IiZ_Ml8hVic5XxVACQQGJGs_eSwCZBAUanKvlg8pRj_59qDkXQJZUSUq", "_mounts" => "0", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-21 08:18:10.775 [info] nav_forward page_to: measure
+2022-09-21 08:20:58.336 [info] CONNECTED TO RelayServerWeb.UserSocket in 44µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-21 08:20:58.379 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-21 08:20:58.380 [info] JOINED measure:cad04dce54cb in 3ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-21 08:20:58.381 [warn] version:beta, target_server:local, current_server: local
+2022-09-21 08:20:58.772 [warn] version:beta, target_server:local, current_server: local
+2022-09-21 08:39:39.234 [info] CONNECTED TO Phoenix.LiveView.Socket in 108µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V2.JSONSerializer
+  Parameters: %{"_csrf_token" => "IiZ_Ml8hVic5XxVACQQGJGs_eSwCZBAUanKvlg8pRj_59qDkXQJZUSUq", "_mounts" => "1", "_track_static" => %{"0" => "http://127.0.0.1:4000/css/ui.css"}, "vsn" => "2.0.0"}
+2022-09-21 08:39:41.291 [info] GET /measure
+2022-09-21 08:39:41.293 [info] Sent 302 in 2ms
+2022-09-21 08:39:41.341 [info] GET /login/password
+2022-09-21 08:39:41.346 [info] Sent 200 in 4ms
+2022-09-22 00:44:55.824 [info] SIGTERM received - shutting down
+
+2022-09-22 01:05:57.283 [info] Running RelayServerWeb.Endpoint with cowboy 2.9.0 at 0.0.0.0:4000 (http)
+2022-09-22 01:05:57.303 [info] Access RelayServerWeb.Endpoint at http://localhost:4000
+2022-09-22 01:38:11.722 [info] CONNECTED TO RelayServerWeb.UserSocket in 23µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-22 01:38:11.789 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-22 01:38:11.794 [info] JOINED measure:cad04dce54cb in 13ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-22 01:38:12.174 [warn] version:beta, target_server:local, current_server: local
+2022-09-22 06:59:30.581 [error] Postgrex.Protocol (#PID<0.490.0>) disconnected: ** (DBConnection.ConnectionError) tcp recv: timeout
+2022-09-22 06:59:30.581 [error] Postgrex.Protocol (#PID<0.498.0>) disconnected: ** (DBConnection.ConnectionError) tcp recv: timeout
+2022-09-22 06:59:30.581 [error] Postgrex.Protocol (#PID<0.496.0>) disconnected: ** (DBConnection.ConnectionError) tcp recv: timeout
+2022-09-22 06:59:30.581 [error] Postgrex.Protocol (#PID<0.493.0>) disconnected: ** (DBConnection.ConnectionError) tcp recv: timeout
+2022-09-22 06:59:30.581 [error] Postgrex.Protocol (#PID<0.491.0>) disconnected: ** (DBConnection.ConnectionError) tcp recv: timeout
+2022-09-22 06:59:30.581 [error] Postgrex.Protocol (#PID<0.495.0>) disconnected: ** (DBConnection.ConnectionError) tcp recv: timeout
+2022-09-22 06:59:30.581 [error] Postgrex.Protocol (#PID<0.489.0>) disconnected: ** (DBConnection.ConnectionError) tcp recv: timeout
+2022-09-22 06:59:30.581 [error] Postgrex.Protocol (#PID<0.492.0>) disconnected: ** (DBConnection.ConnectionError) tcp recv: timeout
+2022-09-22 06:59:30.581 [error] Postgrex.Protocol (#PID<0.494.0>) disconnected: ** (DBConnection.ConnectionError) tcp recv: timeout
+2022-09-22 06:59:30.581 [error] Postgrex.Protocol (#PID<0.497.0>) disconnected: ** (DBConnection.ConnectionError) tcp recv: timeout
+2022-09-22 06:59:36.207 [error] Postgrex.Protocol (#PID<0.494.0>) failed to connect: ** (Postgrex.Error) FATAL 57P03 (cannot_connect_now) the database system is shutting down
+2022-09-22 06:59:36.207 [error] Postgrex.Protocol (#PID<0.497.0>) failed to connect: ** (Postgrex.Error) FATAL 57P03 (cannot_connect_now) the database system is shutting down
+2022-09-22 06:59:36.207 [error] Postgrex.Protocol (#PID<0.491.0>) failed to connect: ** (Postgrex.Error) FATAL 57P03 (cannot_connect_now) the database system is shutting down
+2022-09-22 06:59:36.207 [error] Postgrex.Protocol (#PID<0.489.0>) failed to connect: ** (Postgrex.Error) FATAL 57P03 (cannot_connect_now) the database system is shutting down
+2022-09-22 06:59:36.207 [error] Postgrex.Protocol (#PID<0.490.0>) failed to connect: ** (Postgrex.Error) FATAL 57P03 (cannot_connect_now) the database system is shutting down
+2022-09-22 06:59:36.207 [error] Postgrex.Protocol (#PID<0.498.0>) failed to connect: ** (Postgrex.Error) FATAL 57P03 (cannot_connect_now) the database system is shutting down
+2022-09-22 06:59:36.207 [error] Postgrex.Protocol (#PID<0.495.0>) failed to connect: ** (Postgrex.Error) FATAL 57P03 (cannot_connect_now) the database system is shutting down
+2022-09-22 06:59:36.207 [error] Postgrex.Protocol (#PID<0.492.0>) failed to connect: ** (Postgrex.Error) FATAL 57P03 (cannot_connect_now) the database system is shutting down
+2022-09-22 06:59:36.207 [error] Postgrex.Protocol (#PID<0.496.0>) failed to connect: ** (Postgrex.Error) FATAL 57P03 (cannot_connect_now) the database system is shutting down
+2022-09-22 06:59:36.207 [error] Postgrex.Protocol (#PID<0.493.0>) failed to connect: ** (Postgrex.Error) FATAL 57P03 (cannot_connect_now) the database system is shutting down
+2022-09-22 06:59:37.345 [error] Postgrex.Protocol (#PID<0.492.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:37.891 [error] Postgrex.Protocol (#PID<0.498.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:38.015 [error] Postgrex.Protocol (#PID<0.489.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:38.023 [error] Postgrex.Protocol (#PID<0.493.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:38.138 [error] Postgrex.Protocol (#PID<0.490.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:38.668 [error] Postgrex.Protocol (#PID<0.497.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:38.812 [error] Postgrex.Protocol (#PID<0.494.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:38.824 [error] Postgrex.Protocol (#PID<0.491.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:38.824 [error] Postgrex.Protocol (#PID<0.492.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:38.907 [error] Postgrex.Protocol (#PID<0.495.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:39.214 [error] Postgrex.Protocol (#PID<0.496.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:40.126 [error] Postgrex.Protocol (#PID<0.498.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:40.750 [error] Postgrex.Protocol (#PID<0.490.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:41.618 [error] Postgrex.Protocol (#PID<0.489.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:41.885 [error] Postgrex.Protocol (#PID<0.492.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:42.346 [error] Postgrex.Protocol (#PID<0.497.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:42.421 [error] Postgrex.Protocol (#PID<0.493.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:42.646 [error] Postgrex.Protocol (#PID<0.495.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:43.759 [error] Postgrex.Protocol (#PID<0.491.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:43.833 [error] Postgrex.Protocol (#PID<0.498.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:46.096 [error] Postgrex.Protocol (#PID<0.497.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:46.429 [error] Postgrex.Protocol (#PID<0.496.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:46.536 [error] Postgrex.Protocol (#PID<0.494.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:46.792 [error] Postgrex.Protocol (#PID<0.490.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:50.590 [error] Postgrex.Protocol (#PID<0.492.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:51.849 [error] Postgrex.Protocol (#PID<0.489.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:52.671 [error] Postgrex.Protocol (#PID<0.498.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:53.135 [error] Postgrex.Protocol (#PID<0.493.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:53.462 [error] Postgrex.Protocol (#PID<0.495.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:54.571 [error] Postgrex.Protocol (#PID<0.490.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:55.507 [error] Postgrex.Protocol (#PID<0.491.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:55.517 [error] Postgrex.Protocol (#PID<0.497.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 06:59:55.846 [error] Postgrex.Protocol (#PID<0.494.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 07:00:02.647 [error] Postgrex.Protocol (#PID<0.496.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 07:00:04.103 [error] Postgrex.Protocol (#PID<0.490.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 07:00:05.327 [error] Postgrex.Protocol (#PID<0.497.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 07:00:07.066 [error] Postgrex.Protocol (#PID<0.498.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 07:00:08.065 [error] Postgrex.Protocol (#PID<0.492.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 07:00:09.492 [error] Postgrex.Protocol (#PID<0.494.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 07:00:10.594 [error] Postgrex.Protocol (#PID<0.493.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 07:00:13.902 [error] Postgrex.Protocol (#PID<0.495.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 07:00:14.991 [error] Postgrex.Protocol (#PID<0.496.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 07:00:18.861 [error] Postgrex.Protocol (#PID<0.489.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 07:00:19.114 [error] Postgrex.Protocol (#PID<0.490.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 07:00:20.250 [error] Postgrex.Protocol (#PID<0.498.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 07:00:24.389 [error] Postgrex.Protocol (#PID<0.491.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 07:00:29.003 [error] Postgrex.Protocol (#PID<0.493.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 07:00:31.807 [error] Postgrex.Protocol (#PID<0.490.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 07:00:32.542 [error] Postgrex.Protocol (#PID<0.498.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 07:00:32.766 [error] Postgrex.Protocol (#PID<0.497.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 07:00:34.736 [error] Postgrex.Protocol (#PID<0.494.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 07:00:35.203 [error] Postgrex.Protocol (#PID<0.495.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 07:00:36.648 [error] Postgrex.Protocol (#PID<0.492.0>) failed to connect: ** (DBConnection.ConnectionError) tcp connect (db:5432): non-existing domain - :nxdomain
+2022-09-22 07:00:39.417 [info] SIGTERM received - shutting down
+
+2022-09-22 07:02:04.702 [info] Running RelayServerWeb.Endpoint with cowboy 2.9.0 at 0.0.0.0:4000 (http)
+2022-09-22 07:02:04.718 [info] Access RelayServerWeb.Endpoint at http://localhost:4000
+2022-09-22 09:55:52.353 [info] SIGTERM received - shutting down
+
+2022-09-23 01:04:56.614 [info] Running RelayServerWeb.Endpoint with cowboy 2.9.0 at 0.0.0.0:4000 (http)
+2022-09-23 01:04:56.635 [info] Access RelayServerWeb.Endpoint at http://localhost:4000
+2022-09-23 01:11:16.226 [info] CONNECTED TO RelayServerWeb.UserSocket in 29µs
+  Transport: :websocket
+  Serializer: Phoenix.Socket.V1.JSONSerializer
+  Parameters: %{"machine_id" => "cad04dce54cb"}
+2022-09-23 01:11:16.598 [info] [label: "MACHINE->CHANNEL->LIVE: Join from [cad04dce54cb]:{\"payload\":{\"token\":\"cad04dce54cb\"}}"]
+2022-09-23 01:11:16.617 [info] JOINED measure:cad04dce54cb in 45ms
+  Parameters: %{"payload" => %{"token" => "cad04dce54cb"}}
+2022-09-23 01:11:17.097 [warn] version:beta, target_server:local, current_server: local
+2022-09-23 07:07:00.882 [info] SIGTERM received - shutting down
+
